@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PAR3A-YLA
+- 👋 Hi, I’m PARSA
 - 👀 I’m interested in programming ;
 - 🌱 I’m currently learning c++ , js , html/css ; 
-- 💞️ I’m looking to collaborate on ... ;
 - 📫 How to reach me your message from github (par3a_yla@yahoo.com) ; 
 
 <!---
